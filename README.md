@@ -3,7 +3,7 @@
 Image Processing API is used to resize and saves
 images. The user visits the URL and enters the image name, height, and width. This query will send to serve to resize the image and send the image resized to the user.
 
-This project of udacity Nanodegree program [Full Stack JavaScript Developer](https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067?utm_campaign=12908932988_c_individuals&utm_keyword=%2Budacity%20%2Bjavascript%20%2Bfull%20%2Bstack_b&utm_medium=ads_r&utm_source=gsem_brand&utm_term=124509200071)
+This project is a part of udacity Nanodegree program [Full Stack JavaScript Developer](https://www.udacity.com/course/full-stack-javascript-developer-nanodegree--nd0067?utm_campaign=12908932988_c_individuals&utm_keyword=%2Budacity%20%2Bjavascript%20%2Bfull%20%2Bstack_b&utm_medium=ads_r&utm_source=gsem_brand&utm_term=124509200071)
 
 ## Pages
 
