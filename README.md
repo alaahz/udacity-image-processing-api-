@@ -70,7 +70,7 @@ There are two middlewares which are validator and checkThumb.
 
 **validator**: used to check if file name is existing in fall folder and the user enter the height and width.
 
-**checkThumb**: used to check if file name is existing in thumbnail.
+**checkThumb**: used to check if file name is existing in thumbnail folder.
 
 **resizeImage module**: used to resize the image and save it in the thumbnail folder
 
